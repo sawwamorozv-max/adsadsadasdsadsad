@@ -1,4 +1,4 @@
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?encryption=none&security=none#⏳_WHITELIST_ОБНОВЛЕН_[21.05 04:05_МСК]
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?encryption=none&security=none#⏳_WHITELIST_ОБНОВЛЕН_[21.05 04:08_МСК]
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none#✅ https://etoneya.su/1
 vless://00000000-0000-0000-0000-000000000001@127.0.0.1:443?security=none#✅ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
 vless://00000000-0000-0000-0000-000000000002@127.0.0.1:443?security=none#✅ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt
