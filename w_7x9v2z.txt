@@ -1,10 +1,10 @@
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?encryption=none&security=none#⏳_WHITELIST_ОБНОВЛЕН_[21.05 04:00_МСК]
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?encryption=none&security=none#⏳_WHITELIST_ОБНОВЛЕН_[21.05 04:05_МСК]
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none#✅ https://etoneya.su/1
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none#✅ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none#✅ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none#✅ https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/selected.txt
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none#✅ https://raw.githubusercontent.com/ByeWhiteLists/ByeWhiteLists2/refs/heads/main/ByeWhiteLists2.txt
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none#✅ https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/whitelist_full
+vless://00000000-0000-0000-0000-000000000001@127.0.0.1:443?security=none#✅ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
+vless://00000000-0000-0000-0000-000000000002@127.0.0.1:443?security=none#✅ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt
+vless://00000000-0000-0000-0000-000000000003@127.0.0.1:443?security=none#✅ https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/selected.txt
+vless://00000000-0000-0000-0000-000000000004@127.0.0.1:443?security=none#✅ https://raw.githubusercontent.com/ByeWhiteLists/ByeWhiteLists2/refs/heads/main/ByeWhiteLists2.txt
+vless://00000000-0000-0000-0000-000000000005@127.0.0.1:443?security=none#✅ https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/whitelist_full
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#0000
 vless://30748ba4-ac51-48fb-b624-19c21ac4c31a@95.85.229.198:8443?type=tcp&security=reality&fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6&sni=eh.vk.com#0002
 vless://2f4ccd8c-241a-4900-9e1e-3c8a51826096@84.21.173.41:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=8YhxIt59OyCh3hGT8mbByjMi040LIsSbLXGCstIqeXU&sid=aca2849be8b47f1b&sni=google.com#0003
